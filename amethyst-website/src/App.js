@@ -4,7 +4,10 @@ function App (){
     <div>
       <h1 className='head'>Amethyst</h1>
       <h3 className='bottom'>Integrated No Pollution Catalytic Converter</h3>
-      <p>Nice</p>
+      <p className='test'>Nice</p>
+      <div>
+        qwerty
+      </div>
     </div>
   )
 }
