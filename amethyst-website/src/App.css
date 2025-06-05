@@ -7,3 +7,9 @@
   color: orange;
   font-size: 30px;
 }
+
+.box {
+  background-color: black;
+  height: 300px;
+  width: auto;
+}
