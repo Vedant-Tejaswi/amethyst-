@@ -8,8 +8,7 @@
   font-size: 30px;
 }
 
-.box {
-  background-color: black;
-  height: 300px;
-  width: auto;
+.test {
+  color: red;
+  font-size: 20px;
 }
