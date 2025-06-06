@@ -6,7 +6,7 @@ function App (){
       <h3 className='bottom'>Integrated No Pollution Catalytic Converter</h3>
       <p className='test'>Nice</p>
       <div>
-        qwerty
+        <a href='google.com'>Links</a>
       </div>
     </div>
   )
